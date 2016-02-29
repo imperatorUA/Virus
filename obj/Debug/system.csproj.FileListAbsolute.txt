@@ -1,0 +1,45 @@
+C:\Users\samoylov\Desktop\system\bin\Debug\system.exe.config
+C:\Users\samoylov\Desktop\system\obj\Debug\system.csprojResolveAssemblyReference.cache
+C:\Users\samoylov\Desktop\system\obj\Debug\system.Form1.resources
+C:\Users\samoylov\Desktop\system\obj\Debug\system.Properties.Resources.resources
+C:\Users\samoylov\Desktop\system\obj\Debug\system.csproj.GenerateResource.Cache
+C:\Users\samoylov\Desktop\system\bin\Debug\system.exe
+C:\Users\samoylov\Desktop\system\bin\Debug\system.pdb
+C:\Users\samoylov\Desktop\system\obj\Debug\system.exe
+C:\Users\samoylov\Desktop\system\obj\Debug\system.pdb
+I:\system\bin\Debug\system.exe.config
+I:\system\obj\Debug\system.exe
+I:\system\obj\Debug\system.pdb
+I:\system\bin\Debug\system.exe
+I:\system\bin\Debug\system.pdb
+I:\system\obj\Debug\system.csprojResolveAssemblyReference.cache
+I:\system\obj\Debug\system.Form1.resources
+I:\system\obj\Debug\system.Properties.Resources.resources
+I:\system\obj\Debug\system.csproj.GenerateResource.Cache
+C:\Users\samoylov\Desktop\system — копия\bin\Debug\system.exe.config
+C:\Users\samoylov\Desktop\system — копия\obj\Debug\system.exe
+C:\Users\samoylov\Desktop\system — копия\obj\Debug\system.pdb
+C:\Users\samoylov\Desktop\system — копия\bin\Debug\system.exe
+C:\Users\samoylov\Desktop\system — копия\bin\Debug\system.pdb
+C:\Users\samoylov\Desktop\system — копия\obj\Debug\system.csprojResolveAssemblyReference.cache
+C:\Users\samoylov\Desktop\system — копия\obj\Debug\system.Form1.resources
+C:\Users\samoylov\Desktop\system — копия\obj\Debug\system.Properties.Resources.resources
+C:\Users\samoylov\Desktop\system — копия\obj\Debug\system.csproj.GenerateResource.Cache
+C:\Users\samoylov\Desktop\system_законченая\bin\Debug\system.exe.config
+C:\Users\samoylov\Desktop\system_законченая\obj\Debug\system.exe
+C:\Users\samoylov\Desktop\system_законченая\obj\Debug\system.pdb
+C:\Users\samoylov\Desktop\system_законченая\bin\Debug\system.exe
+C:\Users\samoylov\Desktop\system_законченая\bin\Debug\system.pdb
+C:\Users\samoylov\Desktop\system_законченая\obj\Debug\system.csprojResolveAssemblyReference.cache
+C:\Users\samoylov\Desktop\system_законченая\obj\Debug\system.Form1.resources
+C:\Users\samoylov\Desktop\system_законченая\obj\Debug\system.Properties.Resources.resources
+C:\Users\samoylov\Desktop\system_законченая\obj\Debug\system.csproj.GenerateResource.Cache
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\bin\Debug\system.exe.config
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\obj\Debug\system.exe
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\obj\Debug\system.pdb
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\bin\Debug\system.exe
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\bin\Debug\system.pdb
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\obj\Debug\system.csprojResolveAssemblyReference.cache
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\obj\Debug\system.Form1.resources
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\obj\Debug\system.Properties.Resources.resources
+C:\Users\samoylov\Desktop\C#\Вирус\system_законченая\obj\Debug\system.csproj.GenerateResource.Cache
